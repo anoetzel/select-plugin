@@ -1,6 +1,6 @@
 # About the plugin
 
-(https://github.com/anoetzel/select-plugin/raw/main/example.bmp)
+![](https://github.com/anoetzel/select-plugin/raw/main/example.bmp)
 
 In html create an element for select, for instance `<div class="select"></div>`
 
